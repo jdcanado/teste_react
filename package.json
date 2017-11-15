@@ -1,0 +1,27 @@
+{
+  "name": "teste2",
+  "description": "teste",
+  "version": "0.0.62",
+  "dependencies": {
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "nodemon": "1.12.1",
+    "mongoose": "4.13.2",
+    "material-ui-icons": "1.0.0-beta.17",
+    "material-ui": "1.0.0-beta.20",
+    "marked": "0.3.6",
+    "foreman": "2.0.0",
+    "express": "4.16.2",
+    "body-parser": "1.18.2",
+    "axios": "0.17.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
